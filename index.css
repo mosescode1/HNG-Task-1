@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.image,
+.name,
+.days,
+.time,
+.track,
+.github{
+    display: flex;
+}
+.container{
+    border: 0.1rem solid white;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.image img{
+    width: 300px;
+}
