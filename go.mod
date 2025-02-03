@@ -1,6 +1,6 @@
 module github.com/mosescode1/hng-task-1
 
-go 1.23.5
+go 1.23.4
 
 require github.com/gofiber/fiber v1.14.6
 
